@@ -1,5 +1,6 @@
-Favorite color: dsg
-Favorite food: dgsg
-Favorite musician/band:gsrg 
-Favorite movie: gsrg
-Requested grade in the course:gsrg 
+Favorite color: blue
+Favorite food: pizza
+Favorite musician/band:raichel 
+Favorite movie: good will hunting
+Requested grade in the course:1000
+ 
